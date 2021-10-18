@@ -1,5 +1,57 @@
 
-<b>HTML
+< >
+
+<b>INTRODUCTION
+
+We all visit tens of websites everyday, some complex, some simple. Have y'all ever wondered how these webpages are put up and how do they show on all our devices? How do these websites run? How are they made interactive and appealing? Where does the code go?  How do we upload the code in the first place?
+
+In this book we are going to delve deeper into these questions and try to understand the concept of web development.
+
+<b>Web development 
+
+Web development is the work involved in developing a website for the Internet, i.e the world wide web
+
+These websites usually have links in the following format : 
+
+[www.example.com](http://www.example.com/)
+
+OR these websites may even be put on a private network or an Intranet.
+
+Web development can broadly be classified into:-
+
+> Front End- This is everything with what the user interacts with, i.e the Graphical User Interface [GUI]
+
+> Back End - The users cannot see this. It basically means the server, and database that work behind the scenes to deliver information to the user, i.e what is visible on the front end.
+
+Let's now learn more about them.
+
+<b>Front End Web development 
+
+The main focus of this book is to explain and tutor the basics of front end, i.e- HTML, CSS and Javascript.
+
+Front end is developed through the use of HTML, CSS and Javascript. Users can view and interact with this data. This code can be viewed using any browser and is open to all. We can even locally edit this to customize the site to our needs. [This will be explained later]
+
+The following markups and languages are used:-
+
+>Hyper Text Markup Language (HTML)- This is the backbone of any webpage. It's the standard markup language for all websites, without this a webpage cannot exist. HTML is the skeleton of a webpage, we can create lists, tables, paragraphs, link to other web pages and sites, insert images and many more. With only HTML a website will be just simple text and with limited customizations. Moreover, we can't add colours or custom designs using just HTML. These files have the extension .htm or .html.
+
+>Cascading Style Sheets (CSS) - CSS controls the design and presentation aspect of the site and allows your site to have its own unique look. This allows us to use personalized fonts, colors, layouts, animations etc. This is done by maintaining style sheets which sit on top of other style rules, hence it is called cascading. These files have the extension .css.
+
+>Javascript(JS) - Javascript is an event based programming language that is used to transform a static HTML page into a dynamic interface. JS is used to transform a static HTML page into a dynamic interface.User input can be used to manipulate response. These files have the extension .js.
+
+<b>Back End Web development
+
+Backend development primarily focuses on how a website works. Developers write code that focuses on the functionality and logic powering the application they're working on, and the technology they work on is never directly seen by users. This is achieved using languages like Java, PHP, Python, SQL and more.
+
+ </>
+<br> 
+<br>
+<br> 
+ 
+ 
+ 
+ 
+<h1>HTML<h1>
 
 As mentioned in the introduction, HTML is the skeleton of a webpage. HTML documents consist of tags and within them is the information. All HTML documents must start with a <!DOCTYPE> declaration.The declaration is not an HTML tag. It is information to the browser about what document type to expect.<!DOCTYPE html> - This is the declaration for HTML 5
 
