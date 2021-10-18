@@ -51,7 +51,7 @@ Backend development primarily focuses on how a website works. Developers write c
  
  
  
-<h1>HTML<h1>
+<h1>HTML</h1>
 
 As mentioned in the introduction, HTML is the skeleton of a webpage. HTML documents consist of tags and within them is the information. All HTML documents must start with a <!DOCTYPE> declaration.The declaration is not an HTML tag. It is information to the browser about what document type to expect.<!DOCTYPE html> - This is the declaration for HTML 5
 
